@@ -38,8 +38,8 @@ type RecommendedMovie = {
 const _userStates = new Map<number, string>();
 let genreMap: Record<string, number> = {};
 
-const MOVIES_JSON_PATH = path.join(process.cwd(), "movies.json");
-const RECOMMENDED_JSON_PATH = path.join(process.cwd(), "recommended.json");
+const MOVIES_JSON_PATH = path.join(process.cwd(), "filmes.json");
+const RECOMMENDED_JSON_PATH = path.join(process.cwd(), "recomendados.json");
 
 let savedMovies: SavedMovie[] = [];
 let recommendedMovies: RecommendedMovie[] = [];
@@ -85,26 +85,26 @@ async function saveRecommendedToJSON() {
 }
 
 async function fetchGenres(): Promise<Genre[]> {
-	const res = await fetch(`https://api.themoviedb.org/3/genre/movie/list?language=en&api_key=${TMDB_API_KEY}`);
+	const res = await fetch(`https://api.themoviedb.org/3/genre/movie/list?language=pt-BR&api_key=${TMDB_API_KEY}`);
 	const data = await res.json();
 	return data.genres;
 }
 
 async function fetchMoviesByGenre(genreId: number, page = 1): Promise<TMDBMovie[]> {
 	const res = await fetch(
-		`https://api.themoviedb.org/3/discover/movie?api_key=${TMDB_API_KEY}&with_genres=${genreId}&language=en&sort_by=vote_average.desc&vote_count.gte=500&page=${page}`,
+		`https://api.themoviedb.org/3/discover/movie?api_key=${TMDB_API_KEY}&with_genres=${genreId}&language=pt-BR&sort_by=vote_average.desc&vote_count.gte=500&page=${page}`,
 	);
 	const data = await res.json();
 
 	const movies: TMDBMovie[] = await Promise.all(
 		data.results.map(async (movie: any) => {
 			const resDetail = await fetch(
-				`https://api.themoviedb.org/3/movie/${movie.id}?api_key=${TMDB_API_KEY}&language=en`,
+				`https://api.themoviedb.org/3/movie/${movie.id}?api_key=${TMDB_API_KEY}&language=pt-BR`,
 			);
 			const detailData = await resDetail.json();
 			return {
 				...detailData,
-				genre_ids: movie.genre_ids || [],
+				genre_ids: movie.genre_ids ?? [],
 			};
 		}),
 	);
@@ -176,7 +176,7 @@ async function markMoviesAsRecommended(movieIds: number[], userId: number): Prom
 
 async function sendMovieRecommendations(chatId: number, genreName: string) {
 	const genreId = genreMap[genreName];
-	if (!genreId) return bot.sendMessage(chatId, "Invalid category.");
+	if (!genreId) return bot.sendMessage(chatId, "Categoria inválida.");
 
 	try {
 		await fetchMoreMoviesIfNeeded(genreId, chatId);
@@ -186,12 +186,12 @@ async function sendMovieRecommendations(chatId: number, genreName: string) {
 		if (availableMovies.length === 0) {
 			return bot.sendMessage(
 				chatId,
-				`Sorry, I couldn't find new ${genreName} movies to recommend at the moment.`,
+				`Desculpe, não encontrei novos filmes de ${genreName} para recomendar no momento.`,
 			);
 		}
 
 		const selectedMovies = availableMovies
-			.sort(() => Math.random() - 0.5)
+			.toSorted(() => Math.random() - 0.5)
 			.slice(0, Math.min(3, availableMovies.length));
 
 		await markMoviesAsRecommended(
@@ -200,7 +200,7 @@ async function sendMovieRecommendations(chatId: number, genreName: string) {
 		);
 
 		for (const movie of selectedMovies) {
-			const message = `🎬 *${movie.title}*\n\n📝 ${movie.overview || "No description available"}\n⭐️ Rating: ${movie.vote_average}\n🕐 Runtime: ${movie.runtime} min\n📅 Release: ${movie.release_date}`;
+			const message = `🎬 *${movie.title}*\n\n📝 ${movie.overview || "Sem descrição"}\n⭐️ Nota: ${movie.vote_average}\n🕐 Duração: ${movie.runtime} min\n📅 Lançamento: ${movie.release_date}`;
 			const photoUrl = `https://image.tmdb.org/t/p/w500${movie.poster_path}`;
 
 			await bot.sendPhoto(chatId, photoUrl, {
@@ -212,7 +212,7 @@ async function sendMovieRecommendations(chatId: number, genreName: string) {
 		console.log(`Recomendados ${selectedMovies.length} filmes para usuário ${chatId}`);
 	} catch (error) {
 		console.error("Erro ao enviar recomendações:", error);
-		bot.sendMessage(chatId, "Oops! An error occurred while fetching movies. Please try again.");
+		bot.sendMessage(chatId, "Ops! Ocorreu um erro ao buscar filmes. Tente novamente.");
 	}
 }
 
@@ -222,12 +222,12 @@ async function initGenres() {
 }
 
 async function initBot() {
-	console.log("STARTING BOT...");
+	console.log("Iniciando bot...");
 	await loadJSONFiles();
 	await initGenres();
-	console.log("TELEGRAM BOT MOVIES STARTED!");
-	console.log(`Movies saved: ${savedMovies.length}`);
-	console.log(`Recomendations done: ${recommendedMovies.length}`);
+	console.log("Bot iniciado com sucesso!");
+	console.log(`Filmes salvos: ${savedMovies.length}`);
+	console.log(`Recomendações feitas: ${recommendedMovies.length}`);
 }
 
 bot.on("message", async (msg: Message) => {
@@ -237,18 +237,24 @@ bot.on("message", async (msg: Message) => {
 	const genreNames = Object.keys(genreMap);
 	if (genreNames.length === 0) await initGenres();
 
-	if (text && genreMap[text]) {
-		await sendMovieRecommendations(chatId, text);
-		return;
-	}
+	if (text && genreMap[text]) return;
 
-	bot.sendMessage(chatId, "What movie category would you like to receive 3 recommendations for:", {
+	bot.sendMessage(chatId, "Qual categoria de filme você gostaria de receber 3 recomendações:", {
 		reply_markup: {
-			keyboard: Object.keys(genreMap).map((c) => [{ text: c }]),
+			keyboard: genreNames.map((c) => [{ text: c }]),
 			one_time_keyboard: true,
 			resize_keyboard: true,
 		},
 	});
+});
+
+bot.on("text", async (msg) => {
+	const chatId = msg.chat.id;
+	const category = msg.text?.trim();
+
+	if (category && genreMap[category]) {
+		await sendMovieRecommendations(chatId, category);
+	}
 });
 
 initBot().catch(console.error);
