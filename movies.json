@@ -1,0 +1,3349 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/plDp52MirFHc2PMJRMNWoG0kfr3.jpg",
+    "belongs_to_collection": {
+      "id": 263,
+      "name": "O Cavaleiro das Trevas: Coleção",
+      "poster_path": "/afR93PKtvUvZtUcpf5rNLkpVcTi.jpg",
+      "backdrop_path": "/xyhrCEdB4XRkelfVsqXeUZ6rLHi.jpg"
+    },
+    "budget": 185000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 28,
+        "name": "Ação"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 155,
+    "imdb_id": "tt0468569",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Dark Knight",
+    "overview": "Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.",
+    "popularity": 29.6601,
+    "poster_path": "/4lj1ikfsSmMZNyfdi8R8Tv5tsgb.jpg",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 923,
+        "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+        "name": "Legendary Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 9996,
+        "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+        "name": "Syncopy",
+        "origin_country": "GB"
+      },
+      {
+        "id": 429,
+        "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+        "name": "DC",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2008-07-16",
+    "revenue": 1004558444,
+    "runtime": 152,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Por que está tão sério?",
+    "title": "Batman: O Cavaleiro das Trevas",
+    "video": false,
+    "vote_average": 8.52,
+    "vote_count": 33877,
+    "genre_ids": [
+      18,
+      28,
+      80,
+      53
+    ],
+    "saved_at": "2025-05-28T19:28:47.241Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+    "belongs_to_collection": {
+      "id": 119,
+      "name": "O Senhor dos Anéis: Coleção",
+      "poster_path": "/9x5456lykdCQTbwN6cVoU3gQsZp.jpg",
+      "backdrop_path": "/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg"
+    },
+    "budget": 94000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasia"
+      },
+      {
+        "id": 28,
+        "name": "Ação"
+      }
+    ],
+    "homepage": "",
+    "id": 122,
+    "imdb_id": "tt0167260",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Lord of the Rings: The Return of the King",
+    "overview": "O confronto final entre as forças do bem e do mal que lutam pelo controle do futuro da Terra Média se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na intenção de ajudar a resistência. Um exército é reunido por Theoden em Rohan, em mais uma tentativa de deter as forças de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo à Montanha da Perdição para destruir o anel.",
+    "popularity": 22.8285,
+    "poster_path": "/egSO4klmc9pnI1CNnHoYKV70XKI.jpg",
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 11,
+        "logo_path": "/6FAuASQHybRkZUk08p9PzSs9ezM.png",
+        "name": "WingNut Films",
+        "origin_country": "NZ"
+      },
+      {
+        "id": 5237,
+        "logo_path": "/mlnr7vsBHvLye8oEb5A76C0t8x9.png",
+        "name": "The Saul Zaentz Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NZ",
+        "name": "New Zealand"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2003-12-17",
+    "revenue": 1118888979,
+    "runtime": 202,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "O olho do inimigo está se movendo.",
+    "title": "O Senhor dos Anéis: O Retorno do Rei",
+    "video": false,
+    "vote_average": 8.484,
+    "vote_count": 25100,
+    "genre_ids": [
+      12,
+      14,
+      28
+    ],
+    "saved_at": "2025-05-28T19:28:47.242Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sJNNMCc6B7KZIY3LH3JMYJJNH5j.jpg",
+    "belongs_to_collection": null,
+    "budget": 2000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Ação"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 346,
+    "imdb_id": "tt0047478",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "七人の侍",
+    "overview": "Um bando de bandidos aterroriza os habitantes de uma pequena cidade, saqueando-os periodicamente sem piedade. Para repelir estes ataques, os aldeões decidem contratar mercenários. Por fim, obtêm os serviços de 7 guerreiros, 7 samurais dispostos a defendê-los em troca apenas de abrigo e comida.",
+    "popularity": 8.3705,
+    "poster_path": "/telXEMxGtJvffm5JDsx1rQzwWlf.jpg",
+    "production_companies": [
+      {
+        "id": 882,
+        "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+        "name": "TOHO",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "1954-04-26",
+    "revenue": 105000000,
+    "runtime": 207,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Os poderosos guerreiros que se tornaram os sete heróis nacionais de uma pequena cidade.",
+    "title": "Os Sete Samurais",
+    "video": false,
+    "vote_average": 8.455,
+    "vote_count": 3893,
+    "genre_ids": [
+      28,
+      18
+    ],
+    "saved_at": "2025-05-28T19:28:47.242Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+    "belongs_to_collection": {
+      "id": 119,
+      "name": "O Senhor dos Anéis: Coleção",
+      "poster_path": "/9x5456lykdCQTbwN6cVoU3gQsZp.jpg",
+      "backdrop_path": "/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg"
+    },
+    "budget": 93000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasia"
+      },
+      {
+        "id": 28,
+        "name": "Ação"
+      }
+    ],
+    "homepage": "",
+    "id": 120,
+    "imdb_id": "tt0120737",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "overview": "Em uma terra fantástica e única, um hobbit recebe de presente de seu tio um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso, o hobbit Frodo tem um caminho árduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um anão, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel.",
+    "popularity": 28.1532,
+    "poster_path": "/omoMXT3Z7XrQwRZ2OGJGNWbdeEl.jpg",
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 11,
+        "logo_path": "/6FAuASQHybRkZUk08p9PzSs9ezM.png",
+        "name": "WingNut Films",
+        "origin_country": "NZ"
+      },
+      {
+        "id": 5237,
+        "logo_path": "/mlnr7vsBHvLye8oEb5A76C0t8x9.png",
+        "name": "The Saul Zaentz Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NZ",
+        "name": "New Zealand"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2001-12-18",
+    "revenue": 871368364,
+    "runtime": 179,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "A Terra Média ganha vida.",
+    "title": "O Senhor dos Anéis: A Sociedade do Anel",
+    "video": false,
+    "vote_average": 8.421,
+    "vote_count": 25991,
+    "genre_ids": [
+      12,
+      14,
+      28
+    ],
+    "saved_at": "2025-05-28T19:28:47.242Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nC3IjYhUgZWgfKfFX0ygMigFwgc.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Ação"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "História"
+      }
+    ],
+    "homepage": "",
+    "id": 14537,
+    "imdb_id": "tt0056058",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "切腹",
+    "overview": "No século 18, o Japão não está mais em guerra e o país é governado com firmeza. Hanshiro Tsugumo, um dos muitos ronin (samurais errantes) desempregados, decide bater à porta do poderoso clã Ii. Recebido por Kageyu Saito, o intendente do clã, ele pede permissão para cometer suicídio por harakiri na residência. Tentando dissuadi-lo, Saito começa a lhe contar a história de Motome Chijiwa, outro ronin que também queria realizar o mesmo ritual no local.",
+    "popularity": 4.8563,
+    "poster_path": "/3uRTEObwdN7Q3u5xswL2Vf8EsOn.jpg",
+    "production_companies": [
+      {
+        "id": 192,
+        "logo_path": "/93eAKlnQecDdMtucfOprzcjMw9V.png",
+        "name": "Shochiku",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "1962-09-15",
+    "revenue": 0,
+    "runtime": 135,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "O mundo nunca entendeu porque os japoneses preferem a morte à desonra.",
+    "title": "Harakiri",
+    "video": false,
+    "vote_average": 8.414,
+    "vote_count": 1078,
+    "genre_ids": [
+      28,
+      18,
+      36
+    ],
+    "saved_at": "2025-05-28T19:28:47.242Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jfEOzpsjc6JDlKhUHb4toWQPt.jpg",
+    "belongs_to_collection": {
+      "id": 119,
+      "name": "O Senhor dos Anéis: Coleção",
+      "poster_path": "/9x5456lykdCQTbwN6cVoU3gQsZp.jpg",
+      "backdrop_path": "/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg"
+    },
+    "budget": 79000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasia"
+      },
+      {
+        "id": 28,
+        "name": "Ação"
+      }
+    ],
+    "homepage": "",
+    "id": 121,
+    "imdb_id": "tt0167261",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Lord of the Rings: The Two Towers",
+    "overview": "Após a captura de Merry e Pippy pelos orcs, a Sociedade do Anel é dissolvida. Frodo e Sam seguem sua jornada rumo à Montanha da Perdição para destruir o anel e descobrem que estão sendo perseguidos pelo misterioso Gollum. Enquanto isso, Aragorn, o elfo e arqueiro Legolas e o anão Gimli partem para resgatar os hobbits sequestrados e chegam ao reino de Rohan, onde o rei Theoden foi vítima de uma maldição mortal de Saruman.",
+    "popularity": 17.6046,
+    "poster_path": "/cmTFY35KK40yBX23Z9HhqU5uZ2O.jpg",
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 11,
+        "logo_path": "/6FAuASQHybRkZUk08p9PzSs9ezM.png",
+        "name": "WingNut Films",
+        "origin_country": "NZ"
+      },
+      {
+        "id": 5237,
+        "logo_path": "/mlnr7vsBHvLye8oEb5A76C0t8x9.png",
+        "name": "The Saul Zaentz Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NZ",
+        "name": "New Zealand"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2002-12-18",
+    "revenue": 926287400,
+    "runtime": 180,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "A Sociedade é quebrada. O poder das trevas cresce.",
+    "title": "O Senhor dos Anéis: As Duas Torres",
+    "video": false,
+    "vote_average": 8.405,
+    "vote_count": 22597,
+    "genre_ids": [
+      12,
+      14,
+      28
+    ],
+    "saved_at": "2025-05-28T19:28:47.242Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+    "belongs_to_collection": {
+      "id": 573436,
+      "name": "Homem-Aranha: Aranhaverso Coleção",
+      "poster_path": "/2PXCGBd3Jb3LURuo8PJJCKP87Kg.jpg",
+      "backdrop_path": "/oC5S5pdfzPiQC4us05uDMT7v5Ng.jpg"
+    },
+    "budget": 90000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animação"
+      },
+      {
+        "id": 28,
+        "name": "Ação"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ficção científica"
+      }
+    ],
+    "homepage": "http://marvel.com/movies/movie/257/spider-man_into_the_spider-verse",
+    "id": 324857,
+    "imdb_id": "tt4633694",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Spider-Man: Into the Spider-Verse",
+    "overview": "Miles Morales é um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, já falecido. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói aracnídeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras variações do Homem-Aranha.",
+    "popularity": 19.1113,
+    "poster_path": "/sizv4fncWiCe8i5jWCA8xfqtCB9.jpg",
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 77973,
+        "logo_path": "/9y5lW86HnxKUZOFencYk3TIIRCM.png",
+        "name": "Lord Miller",
+        "origin_country": "US"
+      },
+      {
+        "id": 84041,
+        "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+        "name": "Pascal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2251,
+        "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
+        "name": "Sony Pictures Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 14439,
+        "logo_path": null,
+        "name": "Arad Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 7505,
+        "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+        "name": "Marvel Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2018-12-06",
+    "revenue": 384298736,
+    "runtime": 117,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "O que te faz diferente é o que faz de você o Homem-Aranha.",
+    "title": "Homem-Aranha: No Aranhaverso",
+    "video": false,
+    "vote_average": 8.398,
+    "vote_count": 16148,
+    "genre_ids": [
+      16,
+      28,
+      12,
+      878
+    ],
+    "saved_at": "2025-05-28T19:28:47.242Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dMZxEdrWIzUmUoOz2zvmFuutbj7.jpg",
+    "belongs_to_collection": {
+      "id": 10,
+      "name": "Star Wars: Coleção",
+      "poster_path": "/v3e56rck9tv8zeMuNldJdtpgFeQ.jpg",
+      "backdrop_path": "/zZDkgOmFMVYpGAkR9Tkxw0CRnxX.jpg"
+    },
+    "budget": 18000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Ação"
+      },
+      {
+        "id": 878,
+        "name": "Ficção científica"
+      }
+    ],
+    "homepage": "https://www.starwars.com/films/star-wars-episode-v-the-empire-strikes-back",
+    "id": 1891,
+    "imdb_id": "tt0080684",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Empire Strikes Back",
+    "overview": "As forças imperais comandadas por Darth Vader lançam um ataque contra os membros da resistência, que são obrigados a fugir. Enquanto isso Luke Skywalker tenta encontrar o Mestre Yoda, que poderá ensiná-lo a dominar a \"Força\" e torná-lo um cavaleiro jedi. No entanto, Darth Vader planeja levá-lo para o lado negro da \"Força\".",
+    "popularity": 9.8414,
+    "poster_path": "/dLGT8b4Ut10z44uYLaip4QiwKta.jpg",
+    "production_companies": [
+      {
+        "id": 1,
+        "logo_path": "/tlVSws0RvvtPBwViUyOFAO0vcQS.png",
+        "name": "Lucasfilm Ltd.",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1980-05-20",
+    "revenue": 538400000,
+    "runtime": 124,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "A luta continua... há resistência contra o Império.",
+    "title": "Guerra nas Estrelas: O Império Contra-Ataca",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 17420,
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "saved_at": "2025-05-28T19:28:47.242Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+    "belongs_to_collection": null,
+    "budget": 160000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Ação"
+      },
+      {
+        "id": 878,
+        "name": "Ficção científica"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "id": 27205,
+    "imdb_id": "tt1375666",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Inception",
+    "overview": "Cobb é um ladrão habilidoso que comete espionagem corporativa infiltrando-se no subconsciente de seus alvos durante o estado de sono. Impedido de retornar para sua família, ele recebe a oportunidade de se redimir ao realizar uma tarefa aparentemente impossível: plantar uma ideia na mente do herdeiro de um império. Para realizar o crime perfeito, ele conta com a ajuda do parceiro Arthur, o discreto Eames e a arquiteta de sonhos Ariadne. Juntos, eles correm para que o inimigo não antecipe seus passos.",
+    "popularity": 25.9349,
+    "poster_path": "/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg",
+    "production_companies": [
+      {
+        "id": 923,
+        "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+        "name": "Legendary Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 9996,
+        "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+        "name": "Syncopy",
+        "origin_country": "GB"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2010-07-15",
+    "revenue": 839030630,
+    "runtime": 148,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      },
+      {
+        "english_name": "Swahili",
+        "iso_639_1": "sw",
+        "name": "Kiswahili"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Sua mente é a cena do crime.",
+    "title": "A Origem",
+    "video": false,
+    "vote_average": 8.369,
+    "vote_count": 37488,
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "saved_at": "2025-05-28T19:28:47.242Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
+    "belongs_to_collection": {
+      "id": 573436,
+      "name": "Homem-Aranha: Aranhaverso Coleção",
+      "poster_path": "/2PXCGBd3Jb3LURuo8PJJCKP87Kg.jpg",
+      "backdrop_path": "/oC5S5pdfzPiQC4us05uDMT7v5Ng.jpg"
+    },
+    "budget": 100000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animação"
+      },
+      {
+        "id": 28,
+        "name": "Ação"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ficção científica"
+      }
+    ],
+    "homepage": "",
+    "id": 569094,
+    "imdb_id": "tt9362722",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Spider-Man: Across the Spider-Verse",
+    "overview": "Miles Morales retorna para o próximo capítulo da saga do Aranhaverso, uma aventura épica que transportará o Homem-Aranha em tempo integral e amigável do bairro do Brooklyn através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vilão mais poderoso do que qualquer coisa que eles já encontraram.",
+    "popularity": 27.0911,
+    "poster_path": "/fUwfsPWEEdnSt29jIwJ5eVtySX6.jpg",
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2251,
+        "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
+        "name": "Sony Pictures Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 77973,
+        "logo_path": "/9y5lW86HnxKUZOFencYk3TIIRCM.png",
+        "name": "Lord Miller",
+        "origin_country": "US"
+      },
+      {
+        "id": 84041,
+        "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+        "name": "Pascal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 14439,
+        "logo_path": null,
+        "name": "Arad Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 7505,
+        "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+        "name": "Marvel Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2023-05-31",
+    "revenue": 690897910,
+    "runtime": 140,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिन्दी"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "É como você usa a máscara que importa.",
+    "title": "Homem-Aranha: Através do Aranhaverso",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 7584,
+    "genre_ids": [
+      16,
+      28,
+      12,
+      878
+    ],
+    "saved_at": "2025-05-28T19:28:47.242Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/deUWVEgNh2IGjShyymZhaYP40ye.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Ação"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "https://www.netflix.com/br/title/81936018",
+    "id": 1356039,
+    "imdb_id": "tt23648788",
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_title": "Contraataque",
+    "overview": "Uma missão de resgate faz surgir um novo inimigo, levando o capitão Guerrero e seus soldados de elite a enfrentar uma emboscada de um grupo criminoso.",
+    "popularity": 32.9183,
+    "poster_path": "/iQsMy1xn8NG1VfVWFpEhhAsp4pi.jpg",
+    "production_companies": [
+      {
+        "id": 84651,
+        "logo_path": "/o7gUREdtNzQ3Alrck13tlvcNKvv.png",
+        "name": "Draco Films",
+        "origin_country": "MX"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      }
+    ],
+    "release_date": "2025-02-27",
+    "revenue": 0,
+    "runtime": 85,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Contra-Ataque",
+    "video": false,
+    "vote_average": 8.341,
+    "vote_count": 686,
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "saved_at": "2025-05-28T19:28:47.242Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bguFhzIGpQdGQ6uizm07oMKbgHi.jpg",
+    "belongs_to_collection": null,
+    "budget": 16000000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 28,
+        "name": "Ação"
+      }
+    ],
+    "homepage": "",
+    "id": 101,
+    "imdb_id": "tt0110413",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_title": "Léon",
+    "overview": "Mathilda tem apenas 12 anos de idade mas já conhece o lado obscuro da vida: seu pai abusivo guarda drogas para policiais corruptos e a mãe a negligencia. O vizinho Léon gosta de cuidar de plantas, mas é um assassino de aluguel para o gângster Tony. Quando sua família é assassinada por um agente antidrogas desonesto, Mathilda se une a um relutante Léon para aprender o negócio mortal e vingar a morte da família.",
+    "popularity": 13.0822,
+    "poster_path": "/qgco9a59jPKOzwNN99s2mUYRgig.jpg",
+    "production_companies": [
+      {
+        "id": 9,
+        "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+        "name": "Gaumont",
+        "origin_country": "FR"
+      },
+      {
+        "id": 66743,
+        "logo_path": null,
+        "name": "Les Films du Dauphin",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "1994-09-14",
+    "revenue": 45284974,
+    "runtime": 111,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Se quiser um trabalho bem feito, contrate um profissional.",
+    "title": "O Profissional",
+    "video": false,
+    "vote_average": 8.301,
+    "vote_count": 15212,
+    "genre_ids": [
+      80,
+      18,
+      28
+    ],
+    "saved_at": "2025-05-28T19:28:47.242Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xLMJCCSatxENpHO9rLW9yD8A12C.jpg",
+    "belongs_to_collection": {
+      "id": 96850,
+      "name": "Evangelion: Coleção",
+      "poster_path": "/1FHZmNWcyz5zzGH2PQf1w0S4JZ1.jpg",
+      "backdrop_path": "/15H2qrFqK3EmomWXOiJwothqc5V.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animação"
+      },
+      {
+        "id": 878,
+        "name": "Ficção científica"
+      },
+      {
+        "id": 28,
+        "name": "Ação"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 18491,
+    "imdb_id": "tt0169858",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に",
+    "overview": "Um final alternativo para a série de anime \"Neon Genesis Evangelion\". Em The End of Evangelion, A SEELE ordena um ataque à NERV para destruir os EVAs antes que Gendo consiga provocar o Terceiro Impacto e a união das almas humanas.",
+    "popularity": 7.0203,
+    "poster_path": "/984vnfPmcerjkz8aEbqulbc2X32.jpg",
+    "production_companies": [
+      {
+        "id": 3041,
+        "logo_path": "/j9VqEdiNqIkMJKku1UTGMAvmuRr.png",
+        "name": "GAINAX",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3466,
+        "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+        "name": "movic",
+        "origin_country": "JP"
+      },
+      {
+        "id": 21504,
+        "logo_path": null,
+        "name": "Star Child Recording",
+        "origin_country": ""
+      },
+      {
+        "id": 3034,
+        "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+        "name": "TV Tokyo",
+        "origin_country": "JP"
+      },
+      {
+        "id": 529,
+        "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+        "name": "Production I.G",
+        "origin_country": "JP"
+      },
+      {
+        "id": 1194,
+        "logo_path": "/dwkHaFLgtA7CUNbgKK0wB6bospu.png",
+        "name": "KADOKAWA Shoten",
+        "origin_country": "JP"
+      },
+      {
+        "id": 5822,
+        "logo_path": "/qyTbRgCyU9NLKvKaiQVbadtr7RY.png",
+        "name": "Toei Company",
+        "origin_country": "JP"
+      },
+      {
+        "id": 113750,
+        "logo_path": "/A3QVZ9Ah0yI2d2GiXUFpdlbTgyr.png",
+        "name": "SEGA",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "1997-07-19",
+    "revenue": 20563523,
+    "runtime": 97,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "A sina da destruição é também o regozijo do renascimento",
+    "title": "Neon Genesis Evangelion: O Fim do Evangelho",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 1683,
+    "genre_ids": [
+      16,
+      878,
+      28,
+      18
+    ],
+    "saved_at": "2025-05-28T19:28:47.242Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sdwjQEM869JFwMytTmvr6ggvaUl.jpg",
+    "belongs_to_collection": null,
+    "budget": 3000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 9648,
+        "name": "Mistério"
+      },
+      {
+        "id": 28,
+        "name": "Ação"
+      }
+    ],
+    "homepage": "",
+    "id": 670,
+    "imdb_id": "tt0364569",
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_title": "올드보이",
+    "overview": "Dae-Su é raptado e mantido em cativeiro por 15 anos num quarto de hotel, sem qualquer contato com o mundo externo. Quando ele é inexplicavelmente solto, descobre que é acusado pelo assassinato da esposa e embarca numa missão obsessiva por vingança.",
+    "popularity": 17.6469,
+    "poster_path": "/o4pkvVh8BPFOawIJ79dgoD5wvvZ.jpg",
+    "production_companies": [
+      {
+        "id": 399,
+        "logo_path": null,
+        "name": "Show East",
+        "origin_country": "KR"
+      },
+      {
+        "id": 118802,
+        "logo_path": null,
+        "name": "Egg Film",
+        "origin_country": "KR"
+      },
+      {
+        "id": 685,
+        "logo_path": null,
+        "name": "Cineclick Asia",
+        "origin_country": "KR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "release_date": "2003-11-21",
+    "revenue": 17500000,
+    "runtime": 120,
+    "spoken_languages": [
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Ria e o mundo ri com você. Chore, e você chora sozinho.",
+    "title": "Oldboy",
+    "video": false,
+    "vote_average": 8.25,
+    "vote_count": 9028,
+    "genre_ids": [
+      18,
+      53,
+      9648,
+      28
+    ],
+    "saved_at": "2025-05-28T19:28:47.242Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+    "belongs_to_collection": {
+      "id": 86311,
+      "name": "Os Vingadores: Coleção",
+      "poster_path": "/gXyeDg4vLlhcFBxtoAaC03FRGbD.jpg",
+      "backdrop_path": "/zuW6fOiusv4X9nnW3paHGfXcSll.jpg"
+    },
+    "budget": 356000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ficção científica"
+      },
+      {
+        "id": 28,
+        "name": "Ação"
+      }
+    ],
+    "homepage": "https://www.marvel.com/movies/avengers-endgame",
+    "id": 299534,
+    "imdb_id": "tt4154796",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Avengers: Endgame",
+    "overview": "Após os eventos devastadores de \"Vingadores: Guerra Infinita\", o universo está em ruínas devido aos esforços do Titã Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as ações de Thanos e restaurar a ordem no universo de uma vez por todas, não importando as consequências.",
+    "popularity": 23.0022,
+    "poster_path": "/7jvlqGsxeMKscskuUZgKk0Kuv99.jpg",
+    "production_companies": [
+      {
+        "id": 420,
+        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2019-04-24",
+    "revenue": 2799439100,
+    "runtime": 181,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      },
+      {
+        "english_name": "Xhosa",
+        "iso_639_1": "xh",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "O fim de uma era!",
+    "title": "Vingadores: Ultimato",
+    "video": false,
+    "vote_average": 8.239,
+    "vote_count": 26364,
+    "genre_ids": [
+      12,
+      878,
+      28
+    ],
+    "saved_at": "2025-05-28T19:28:47.242Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+    "belongs_to_collection": {
+      "id": 86311,
+      "name": "Os Vingadores: Coleção",
+      "poster_path": "/gXyeDg4vLlhcFBxtoAaC03FRGbD.jpg",
+      "backdrop_path": "/zuW6fOiusv4X9nnW3paHGfXcSll.jpg"
+    },
+    "budget": 300000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Ação"
+      },
+      {
+        "id": 878,
+        "name": "Ficção científica"
+      }
+    ],
+    "homepage": "http://marvel.com/avengers",
+    "id": 299536,
+    "imdb_id": "tt4154756",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Avengers: Infinity War",
+    "overview": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.",
+    "popularity": 36.018,
+    "poster_path": "/d6jUbQj4E4R5MJlFYfdzANEZbkL.jpg",
+    "production_companies": [
+      {
+        "id": 420,
+        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2018-04-25",
+    "revenue": 2052415039,
+    "runtime": 182,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Xhosa",
+        "iso_639_1": "xh",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "Um universo inteiro. De uma vez por todas.",
+    "title": "Vingadores: Guerra Infinita",
+    "video": false,
+    "vote_average": 8.236,
+    "vote_count": 30550,
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "saved_at": "2025-05-28T19:28:47.242Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/icmmSD4vTTDKOq2vvdulafOGw93.jpg",
+    "belongs_to_collection": {
+      "id": 2344,
+      "name": "Matrix: Coleção",
+      "poster_path": "/kP1M00dSffxGqzXir9ITgaSNxcK.jpg",
+      "backdrop_path": "/bRm2DEgUiYciDw3myHuYFInD7la.jpg"
+    },
+    "budget": 63000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Ação"
+      },
+      {
+        "id": 878,
+        "name": "Ficção científica"
+      }
+    ],
+    "homepage": "",
+    "id": 603,
+    "imdb_id": "tt0133093",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Matrix",
+    "overview": "Thomas Anderson, um jovem programador de computador que mora em um cubículo escuro, é atormentado por estranhos pesadelos nos quais encontra-se conectado por cabos e contra sua vontade, em um imenso sistema de computadores do futuro. Em todas essas ocasiões, acorda gritando no exato momento em que os eletrodos estão para penetrar em seu cérebro. À medida que o sonho se repete, Anderson começa a ter dúvidas sobre a realidade. Por meio do encontro com os misteriosos Morpheus e Trinity, Thomas descobre que é, assim como outras pessoas, vítima da Matrix, um sistema inteligente e artificial que manipula a mente das pessoas, criando a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia. Morpheus, entretanto, está convencido de que Thomas é Neo, o aguardado messias capaz de enfrentar a Matrix e conduzir as pessoas de volta à realidade e à liberdade.",
+    "popularity": 29.2699,
+    "poster_path": "/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg",
+    "production_companies": [
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 372,
+        "logo_path": null,
+        "name": "Groucho II Film Partnership",
+        "origin_country": ""
+      },
+      {
+        "id": 1885,
+        "logo_path": "/xlvoOZr4s1PygosrwZyolIFe5xs.png",
+        "name": "Silver Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1999-03-31",
+    "revenue": 463517383,
+    "runtime": 136,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Bem-vindo ao mundo real.",
+    "title": "Matrix",
+    "video": false,
+    "vote_average": 8.226,
+    "vote_count": 26406,
+    "genre_ids": [
+      28,
+      878
+    ],
+    "saved_at": "2025-05-28T19:28:47.242Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1EAxNqdkVnp48a7NUuNBHGflowM.jpg",
+    "belongs_to_collection": {
+      "id": 210303,
+      "name": "Rebuild of Evangelion",
+      "poster_path": "/ma2MjOMz5V8c8D6kV3ReZbk7P3a.jpg",
+      "backdrop_path": "/las0P4Dua54XrZ73VQmGUaH1z0U.jpg"
+    },
+    "budget": 29700000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animação"
+      },
+      {
+        "id": 28,
+        "name": "Ação"
+      },
+      {
+        "id": 878,
+        "name": "Ficção científica"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 283566,
+    "imdb_id": "tt2458948",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "シン・エヴァンゲリオン劇場版:||",
+    "overview": "No rescaldo do Quarto Impacto, presos sem seus Evangelions, Shinji, Asuka e Rei procuram refúgio nos desolados restos vermelhos de Tokyo-3. Mas o perigo para o mundo está longe de acabar. Um novo impacto está surgindo no horizonte - aquele que provará ser o verdadeiro fim de Evangelion.",
+    "popularity": 5.0008,
+    "poster_path": "/tQ6P7q6vrH8ym7knYmuA6SKmfFZ.jpg",
+    "production_companies": [
+      {
+        "id": 4145,
+        "logo_path": "/aEiJyMKr2CxrAJiIdtN70wXqn.png",
+        "name": "khara",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2021-03-08",
+    "revenue": 93882453,
+    "runtime": 155,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Adeus, EVANGELION.",
+    "title": "Evangelion: 3.0+1.0 A Esperança",
+    "video": false,
+    "vote_average": 8.225,
+    "vote_count": 853,
+    "genre_ids": [
+      16,
+      28,
+      878,
+      18
+    ],
+    "saved_at": "2025-05-28T19:28:47.242Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/A95j1q2bYsvRfIdCiTPPvNJVfjI.jpg",
+    "belongs_to_collection": {
+      "id": 702342,
+      "name": "Liga da Justiça Sombria: Coleção",
+      "poster_path": "/hR1aBzl1nzMf8eh8yj8QNzK4Bv7.jpg",
+      "backdrop_path": "/umbb4v3RR63hkJNhuvfI7zuc8Sr.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animação"
+      },
+      {
+        "id": 28,
+        "name": "Ação"
+      },
+      {
+        "id": 878,
+        "name": "Ficção científica"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasia"
+      }
+    ],
+    "homepage": "https://gnula.li/pelicula/justice-league-dark-apokolips-war/",
+    "id": 618344,
+    "imdb_id": "tt11079148",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Justice League Dark: Apokolips War",
+    "overview": "A Liga da Justiça sempre foi a primeira e última defesa da Terra, mas com a chegada iminente de Darkseid e os horrores da guerra que ele trará, tudo está para mudar! Com o tempo se esgotando, a Liga da Justiça precisará, como nunca antes, de todos os seus integrantes e poderes. Mas mesmo os mais poderosos super-heróis do mundo, incluindo o novo membro, John Constantine, poderão não ter chance contra as legiões de Darkseid. Testemunhe a batalha mais chocante do Universo DC, onde a sobrevivência em si já é uma vitória.",
+    "popularity": 3.4236,
+    "poster_path": "/okZMETLdhZypwJfzwjeWIzkIBaK.jpg",
+    "production_companies": [
+      {
+        "id": 2785,
+        "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+        "name": "Warner Bros. Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 9993,
+        "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+        "name": "DC Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2020-05-05",
+    "revenue": 0,
+    "runtime": 90,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "A guerra para acabar com todas as guerras.",
+    "title": "Liga da Justiça Sombria: Guerra de Apokolips",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 1491,
+    "genre_ids": [
+      16,
+      28,
+      878,
+      12,
+      14
+    ],
+    "saved_at": "2025-05-28T19:28:47.242Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg",
+    "belongs_to_collection": {
+      "id": 1069584,
+      "name": "Gladiador: Coleção",
+      "poster_path": "/bk6nx2rGNdlKtBsB9XcrclVKItv.jpg",
+      "backdrop_path": "/1VdLvSIeHuwqCT13H9EafxCacGB.jpg"
+    },
+    "budget": 103000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Ação"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "id": 98,
+    "imdb_id": "tt0172495",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Gladiator",
+    "overview": "Nos dias finais do reinado de Marcus Aurelius, o imperador desperta a ira de seu filho Commodus ao tornar pública sua predileção em deixar o trono para Maximus, o comandante do exército romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Império Romano.",
+    "popularity": 24.7271,
+    "poster_path": "/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/3wwjVpkZtnog6lSKzWDjvw2Yi00.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 1645,
+        "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+        "name": "Scott Free Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 14440,
+        "logo_path": "/gk9zllyMFnaVBWTdZpm7VcfQrHC.png",
+        "name": "Red Wagon Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 21904,
+        "logo_path": null,
+        "name": "Mill Film",
+        "origin_country": "GB"
+      },
+      {
+        "id": 7,
+        "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+        "name": "DreamWorks Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2000-05-04",
+    "revenue": 465516248,
+    "runtime": 155,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "O que fazemos na vida ecoa na eternidade.",
+    "title": "Gladiador",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 19718,
+    "genre_ids": [
+      28,
+      18,
+      12
+    ],
+    "saved_at": "2025-05-28T19:28:47.242Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uif5fUshJrXyyDzfpzp1DLw3N0S.jpg",
+    "belongs_to_collection": {
+      "id": 119674,
+      "name": "Psicose",
+      "poster_path": "/2cFhmOImIv5VPbc2ieLRPCFacAh.jpg",
+      "backdrop_path": "/qawcCCyJNcdOpDRuXo5aJJycecY.jpg"
+    },
+    "budget": 806947,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 9648,
+        "name": "Mistério"
+      }
+    ],
+    "homepage": "",
+    "id": 539,
+    "imdb_id": "tt0054215",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Psycho",
+    "overview": "Marion Crane é uma secretária que rouba 40 mil dólares da imobiliária onde trabalha para se casar e começar uma nova vida. Durante a fuga à carro, ela enfrenta uma forte tempestade, erra o caminho e chega em um velho hotel. O estabelecimento é administrado por um sujeito atencioso chamado Norman Bates, que nutre um forte respeito e temor por sua mãe. Marion decide passar a noite no local, sem saber o perigo que a cerca.",
+    "popularity": 9.812,
+    "poster_path": "/oC2iYT2on8c2iZnehah1l6AWqGu.jpg",
+    "production_companies": [
+      {
+        "id": 10717,
+        "logo_path": null,
+        "name": "Shamley Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1960-06-22",
+    "revenue": 50048065,
+    "runtime": 109,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Psicose",
+    "video": false,
+    "vote_average": 8.422,
+    "vote_count": 10363,
+    "genre_ids": [
+      27,
+      53,
+      9648
+    ],
+    "saved_at": "2025-05-28T19:29:19.578Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/p1PLSI5Nw2krGxD7X4ulul1tDAk.jpg",
+    "belongs_to_collection": null,
+    "budget": 33000000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 9648,
+        "name": "Mistério"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 807,
+    "imdb_id": "tt0114369",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Se7en",
+    "overview": "Quando, a ponto de se aposentar, o detetive William Somerset aborda o último caso com a ajuda do recém-transferido David Mills, eles descobrem uma série de assassinatos. Logo percebem que estão lidando com um assassino que tem como alvo pessoas que ele acredita representar os sete pecados capitais.",
+    "popularity": 19.8684,
+    "poster_path": "/cNFCNa5jUYmFmSpCg7dJ3jWd22d.jpg",
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 4286,
+        "logo_path": null,
+        "name": "Juno Pix",
+        "origin_country": "US"
+      },
+      {
+        "id": 16775,
+        "logo_path": null,
+        "name": "Arnold Kopelson Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1995-09-22",
+    "revenue": 327311859,
+    "runtime": 127,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Sete pecados capitais. Sete maneiras de morrer.",
+    "title": "Seven: Os Sete Crimes Capitais",
+    "video": false,
+    "vote_average": 8.376,
+    "vote_count": 21730,
+    "genre_ids": [
+      80,
+      9648,
+      53
+    ],
+    "saved_at": "2025-05-28T19:29:19.578Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zZvtZZXRnZ4Tdcs0QEWaZZcIWy8.jpg",
+    "belongs_to_collection": null,
+    "budget": 1000000,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 9648,
+        "name": "Mistério"
+      }
+    ],
+    "homepage": "",
+    "id": 567,
+    "imdb_id": "tt0047396",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Rear Window",
+    "overview": "Em Greenwich Village, Nova York, L.B. Jeffries, um fotógrafo profissional, está de molho em seu apartamento por ter quebrado a perna enquanto trabalhava. Como não tem muito o que fazer, fica bisbilhotando a vida dos seus vizinhos com um binóculo. Porém vê algumas coisas que o fazem suspeitar que um assassinato foi cometido.",
+    "popularity": 5.7569,
+    "poster_path": "/jI2eOA4HQwD77yRv075I3G0ahJL.jpg",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10719,
+        "logo_path": null,
+        "name": "Patron Inc.",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1954-08-01",
+    "revenue": 37042336,
+    "runtime": 112,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "É preciso apenas uma testemunha para estragar o crime perfeito.",
+    "title": "Janela Indiscreta",
+    "video": false,
+    "vote_average": 8.352,
+    "vote_count": 6703,
+    "genre_ids": [
+      53,
+      9648
+    ],
+    "saved_at": "2025-05-28T19:29:19.578Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/adkWjKeklbfVIw9y2KKPSCwZl9N.jpg",
+    "belongs_to_collection": null,
+    "budget": 250000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 9648,
+        "name": "Mistério"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 12493,
+    "imdb_id": "tt0057565",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "天国と地獄",
+    "overview": "Em um momento crucial de sua vida financeira, Gondo, um executivo de uma empresa de calçados, recebe a notícia de que seu filho foi sequestrado, e o resgate exigido é uma quantia de dinheiro semelhante à que ele precisa para fechar um negócio importante. Gondo está disposto a pagar o resgate até perceber que os sequestradores cometeram um erro e levaram, na verdade, o filho do seu motorista. Agora ele precisa decidir se o dinheiro é mais importante do que a vida do garoto.",
+    "popularity": 3.1225,
+    "poster_path": "/iRvFiy9JpNMQp9PUG2qvN0jfcdG.jpg",
+    "production_companies": [
+      {
+        "id": 882,
+        "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+        "name": "TOHO",
+        "origin_country": "JP"
+      },
+      {
+        "id": 2680,
+        "logo_path": null,
+        "name": "Kurosawa Production",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "1963-03-01",
+    "revenue": 0,
+    "runtime": 143,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Drama intenso e marcante, quase inacreditável!",
+    "title": "Céu e Inferno",
+    "video": false,
+    "vote_average": 8.344,
+    "vote_count": 977,
+    "genre_ids": [
+      18,
+      80,
+      9648,
+      53
+    ],
+    "saved_at": "2025-05-28T19:29:19.578Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rVreHs57dd8xonPeLlqXdHmYq4M.jpg",
+    "belongs_to_collection": null,
+    "budget": 3000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Mistério"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "homepage": "",
+    "id": 37257,
+    "imdb_id": "tt0051201",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Witness for the Prosecution",
+    "overview": "Quando Leonard Vole (Tyrone Power) é preso sob a acusação de ter assassinado uma rica viúva de meia-idade, Sir Wilfrid Robarts (Charles Laughton), um veterano e astuto advogado, concorda em defendê-lo. Sir Wilfrid está se recuperando de um ataque do coração quase fatal e \"supostamente\" está em uma dieta, que o proíbe de ingerir bebidas alcoólicas e de se envolver em casos complicados. Mas a atração pelas cortes criminais é algo muito forte para ele, especialmente quando o caso é bem difícil. O único álibi de Vole é o testemunho da sua esposa, Christine Vole (Marlene Dietrich), uma mulher fria e calculista. A tarefa de Sir Wilfrid fica praticamente impossível quando Christine Vole concorda em ser testemunha, não da defesa, mas da acusação.",
+    "popularity": 3.7116,
+    "poster_path": "/x19FjKz45i3Fwlj6wGZUBHUAR1y.jpg",
+    "production_companies": [
+      {
+        "id": 13479,
+        "logo_path": null,
+        "name": "Edward Small Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1957-12-17",
+    "revenue": 9000000,
+    "runtime": 114,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Testemunha de Acusação",
+    "video": false,
+    "vote_average": 8.214,
+    "vote_count": 1483,
+    "genre_ids": [
+      18,
+      9648,
+      80
+    ],
+    "saved_at": "2025-05-28T19:29:19.578Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yCnJT53HMXAK87xzPAdjdYhZ3JE.jpg",
+    "belongs_to_collection": null,
+    "budget": 40000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Mistério"
+      },
+      {
+        "id": 878,
+        "name": "Ficção científica"
+      }
+    ],
+    "homepage": "",
+    "id": 1124,
+    "imdb_id": "tt0482571",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "The Prestige",
+    "overview": "No século 19, em Londres, dois amigos ilusionistas e mágicos, Alfred Borden e Rupert Angier, acabam construindo uma rivalidade, uma batalha por supremacia, que se estende ao longo dos anos e que se transforma em obsessão, cujos resultados serão inevitavelmente trágicos.",
+    "popularity": 17.0237,
+    "poster_path": "/9yOIPXWQ9ttsZfzHvmcS7XiV8To.jpg",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 9195,
+        "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+        "name": "Touchstone Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 28,
+        "logo_path": "/7tRG0ZsmtptmzPMKupd1FZkjtnn.png",
+        "name": "Newmarket Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 9996,
+        "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+        "name": "Syncopy",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2006-10-17",
+    "revenue": 109676311,
+    "runtime": 130,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Você está prestando atenção?",
+    "title": "O Grande Truque",
+    "video": false,
+    "vote_average": 8.204,
+    "vote_count": 16530,
+    "genre_ids": [
+      18,
+      9648,
+      878
+    ],
+    "saved_at": "2025-05-28T19:29:19.578Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
+    "belongs_to_collection": null,
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 9648,
+        "name": "Mistério"
+      }
+    ],
+    "homepage": "",
+    "id": 11324,
+    "imdb_id": "tt1130884",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Shutter Island",
+    "overview": "No verão de 1954, os agentes judiciais Teddy Daniels (DiCaprio) e Chuck Aule (Ruffalo) foram designados para uma ilha remota do porto de Boston para investigar o desaparecimento de uma perigosa assassina (Mortimer) que estava reclusa no hospital psiquiátrico Ashecliffe, um centro penitenciário para criminosos perturbados dirigido pelo sinistro médico John Cawley. (Kingsley). Logo eles descobrem que o centro guarda muitos segredos e que a ilha esconde algo mais perigoso que os pacientes.",
+    "popularity": 18.414,
+    "poster_path": "/qnWJFFkRv61e030Yc4xG8oVZUqG.jpg",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11317,
+        "logo_path": "/hMboqqmeILXFeOJjuCsn3FvCIT3.png",
+        "name": "Phoenix Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 23243,
+        "logo_path": "/cBPyrhXhGKzxUdL4Fkg801HZ4W.png",
+        "name": "Sikelia Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 562,
+        "logo_path": "/azANEzu3H3Kztzt63sdjvlzxhuB.png",
+        "name": "Appian Way",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2010-02-14",
+    "revenue": 294804195,
+    "runtime": 138,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "O medo é contagioso.",
+    "title": "Ilha do Medo",
+    "video": false,
+    "vote_average": 8.201,
+    "vote_count": 24548,
+    "genre_ids": [
+      18,
+      53,
+      9648
+    ],
+    "saved_at": "2025-05-28T19:29:19.578Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aVefEnQsfNPUrgsuMszTDt165P0.jpg",
+    "belongs_to_collection": null,
+    "budget": 500000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 10402,
+        "name": "Música"
+      },
+      {
+        "id": 9648,
+        "name": "Mistério"
+      }
+    ],
+    "homepage": "",
+    "id": 92060,
+    "imdb_id": "tt0088263",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Michael Jackson's Thriller",
+    "overview": "Uma noite no cinema se transforma em um pesadelo quando Michael e seu par são atacados por uma horda de zumbis sedentos de sangue - apenas um \"Thriller\" pode salvá-los agora.",
+    "popularity": 1.8857,
+    "poster_path": "/dYHGoPMkZMVuBA4EydmDQMo1EEv.jpg",
+    "production_companies": [
+      {
+        "id": 19222,
+        "logo_path": null,
+        "name": "Optimum Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1983-11-14",
+    "revenue": 0,
+    "runtime": 14,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Michael Jackson: Thriller",
+    "video": false,
+    "vote_average": 8.198,
+    "vote_count": 706,
+    "genre_ids": [
+      27,
+      10402,
+      9648
+    ],
+    "saved_at": "2025-05-28T19:29:19.578Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+    "belongs_to_collection": null,
+    "budget": 9000000,
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Mistério"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 77,
+    "imdb_id": "tt0209144",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Memento",
+    "overview": "Leonard está caçando o homem que estuprou e matou sua esposa. Ele tem dificuldades em encontrar o assassino pois sofre de uma forma intratável de perda de memória. Mesmo que ele possa lembrar detalhes da vida antes do acidente, Leonard não consegue lembrar o que aconteceu quinze minutos atrás, onde está indo ou a razão.",
+    "popularity": 11.4541,
+    "poster_path": "/7leBWM27Q0TUnvmhw6WnFNgGn4G.jpg",
+    "production_companies": [
+      {
+        "id": 28,
+        "logo_path": "/7tRG0ZsmtptmzPMKupd1FZkjtnn.png",
+        "name": "Newmarket Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 491,
+        "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+        "name": "Summit Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 598,
+        "logo_path": null,
+        "name": "Team Todd",
+        "origin_country": "US"
+      },
+      {
+        "id": 34446,
+        "logo_path": null,
+        "name": "I Remember Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2000-10-11",
+    "revenue": 40047236,
+    "runtime": 113,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Algumas memórias são melhores esquecidas.",
+    "title": "Amnésia",
+    "video": false,
+    "vote_average": 8.178,
+    "vote_count": 15304,
+    "genre_ids": [
+      9648,
+      53
+    ],
+    "saved_at": "2025-05-28T19:29:19.578Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/77aHwg1SCy89rfvQtiruPU58qEV.jpg",
+    "belongs_to_collection": null,
+    "budget": 2479000,
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Mistério"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 426,
+    "imdb_id": "tt0052357",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Vertigo",
+    "overview": "Em São Francisco, um detetive aposentado que sofre de um terrível medo de alturas é encarregado de vigiar uma mulher com possíveis tendências suicidas, até que algo estranho acontece nesta missão.",
+    "popularity": 6.6367,
+    "poster_path": "/sJkw4TwgIOL7Yf1sRp2IpFBIBjN.jpg",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10715,
+        "logo_path": null,
+        "name": "Alfred J. Hitchcock Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1958-05-28",
+    "revenue": 7808900,
+    "runtime": 128,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Um Corpo Que Cai",
+    "video": false,
+    "vote_average": 8.16,
+    "vote_count": 5926,
+    "genre_ids": [
+      9648,
+      10749,
+      53
+    ],
+    "saved_at": "2025-05-28T19:29:19.578Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1ZSWFzAP4AZuFCigZZoib2RdcUO.jpg",
+    "belongs_to_collection": null,
+    "budget": 4000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Mistério"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "homepage": "",
+    "id": 411088,
+    "imdb_id": "tt4857264",
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_title": "Contratiempo",
+    "overview": "Após acordar ao lado de sua amante assassinada em um quarto de hotel, um empresário contrata uma advogada para descobrir como ele acabou sendo suspeito de um homicídio.",
+    "popularity": 7.7354,
+    "poster_path": "/pOnbhr6DbPgKjvcNexbRdmR37De.jpg",
+    "production_companies": [
+      {
+        "id": 10128,
+        "logo_path": "/apcQLKRuLLqhi9fD1gaSL3argeo.png",
+        "name": "Think Studio",
+        "origin_country": "ES"
+      },
+      {
+        "id": 11068,
+        "logo_path": "/jOdUllzDZRFy0tPIFDEwpP4Mpv4.png",
+        "name": "Nostromo Pictures",
+        "origin_country": "ES"
+      },
+      {
+        "id": 55260,
+        "logo_path": "/camFxiEQydhhZF5in1SGzMkLKuU.png",
+        "name": "Colosé Producciones",
+        "origin_country": "ES"
+      },
+      {
+        "id": 35559,
+        "logo_path": "/xLqNfq5xXETBKjq3jSSiNqqPiN7.png",
+        "name": "ICEC",
+        "origin_country": "ES"
+      },
+      {
+        "id": 67412,
+        "logo_path": "/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png",
+        "name": "Movistar Plus+",
+        "origin_country": "ES"
+      },
+      {
+        "id": 5085,
+        "logo_path": "/mPuVc7m1Ki7OQQvAYwYfIlEI3vu.png",
+        "name": "TV3",
+        "origin_country": "ES"
+      },
+      {
+        "id": 29566,
+        "logo_path": "/wHbtRtUnXGNzX0riQIpq1fcgueq.png",
+        "name": "Atresmedia",
+        "origin_country": "ES"
+      },
+      {
+        "id": 108143,
+        "logo_path": "/yxZJXyWvt14g9e3Rk9zBi9PkOac.png",
+        "name": "Orange",
+        "origin_country": "ES"
+      },
+      {
+        "id": 111300,
+        "logo_path": null,
+        "name": "Cosmopolitan TV",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2017-01-06",
+    "revenue": 30000000,
+    "runtime": 107,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Um Contratempo",
+    "video": false,
+    "vote_average": 8.097,
+    "vote_count": 4668,
+    "genre_ids": [
+      18,
+      9648,
+      53
+    ],
+    "saved_at": "2025-05-28T19:29:19.578Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/u8wmr8QCowIYXUxVeZYSPWVbB9P.jpg",
+    "belongs_to_collection": null,
+    "budget": 6800000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10752,
+        "name": "Guerra"
+      },
+      {
+        "id": 9648,
+        "name": "Mistério"
+      }
+    ],
+    "homepage": "",
+    "id": 46738,
+    "imdb_id": "tt1255953",
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "fr",
+    "original_title": "Incendies",
+    "overview": "Nawal, uma mulher moribunda do Oriente Médio que vive em Montreal, deixa cartas para seus filhos gêmeos para serem lidas quando ela falecer. Jeanne deve entregar a dela para o pai que nunca conheceu e Simon deve entregar a dele para o irmão que nunca soube que tinha. Os irmãos viajam para o Oriente Médio separados e vivenciam atos de brutalidade, descobrem uma história familiar surpreendente e têm revelações sobre si mesmos.",
+    "popularity": 8.7918,
+    "poster_path": "/uCS7IEfBLoBBLpOdCkfpVA7xhed.jpg",
+    "production_companies": [
+      {
+        "id": 313,
+        "logo_path": "/rx5CT9wUnEz0AcdpcX9epujv7nw.png",
+        "name": "TS Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 7273,
+        "logo_path": null,
+        "name": "Phi Group",
+        "origin_country": ""
+      },
+      {
+        "id": 7029,
+        "logo_path": "/i49Jb3md21vxSOY3bBXRvCRXYKX.png",
+        "name": "micro_scope",
+        "origin_country": "CA"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "2010-09-17",
+    "revenue": 6788659,
+    "runtime": 131,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Arabic",
+        "iso_639_1": "ar",
+        "name": "العربية"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Incêndios",
+    "video": false,
+    "vote_average": 8.094,
+    "vote_count": 2925,
+    "genre_ids": [
+      18,
+      10752,
+      9648
+    ],
+    "saved_at": "2025-05-28T19:29:19.578Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jaO8WurWoUBE55nskqtFqPZFFaO.jpg",
+    "belongs_to_collection": {
+      "id": 479888,
+      "name": "O Enigma de Outro Mundo: Coleção",
+      "poster_path": "/x3JEaboKtPSoIgTIwDFMrFaAhJW.jpg",
+      "backdrop_path": "/lUPruOqjDhZrCKz9Ze2tCufPxHR.jpg"
+    },
+    "budget": 15000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 9648,
+        "name": "Mistério"
+      },
+      {
+        "id": 878,
+        "name": "Ficção científica"
+      }
+    ],
+    "homepage": "",
+    "id": 1091,
+    "imdb_id": "tt0084787",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Thing",
+    "overview": "Na remota Antártida, um grupo de cientistas americanos é perturbado em sua base quando, de um helicóptero, alguém atira em um cão do acampamento. À medida que socorrem o cão baleado, o bicho começa a atacar os cientistas e os outros cachorros e logo eles descobrem que o animal pode assumir a forma de suas vítimas. Isto significa que membros da equipe podem ser mortos e a cópia assumir o lugar deles. Com isso, um piloto e um médico precisam capturar a fera antes que seja tarde demais.",
+    "popularity": 10.4085,
+    "poster_path": "/bazlgJAKWCBF7OllC3JtyJ2DV1n.jpg",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/3wwjVpkZtnog6lSKzWDjvw2Yi00.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 662,
+        "logo_path": null,
+        "name": "The Turman-Foster Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 185644,
+        "logo_path": null,
+        "name": "Province of BC, Ministry of Tourism, Film Promotion Office",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "1982-06-25",
+    "revenue": 19629760,
+    "runtime": 109,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Norwegian",
+        "iso_639_1": "no",
+        "name": "Norsk"
+      }
+    ],
+    "status": "Released",
+    "tagline": "O homem é o lugar mais quente para se esconder.",
+    "title": "O Enigma de Outro Mundo",
+    "video": false,
+    "vote_average": 8.07,
+    "vote_count": 7303,
+    "genre_ids": [
+      27,
+      9648,
+      878
+    ],
+    "saved_at": "2025-05-28T19:29:19.578Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+    "belongs_to_collection": {
+      "id": 4438,
+      "name": "Odisseia Espacial: Coleção",
+      "poster_path": "/bxQaNDuSLCllnMSQ0ZLg7e6HrMW.jpg",
+      "backdrop_path": "/mGeBxBuhU7yx2Ga4U2ST4reEDeb.jpg"
+    },
+    "budget": 12000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ficção científica"
+      },
+      {
+        "id": 9648,
+        "name": "Mistério"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "id": 62,
+    "imdb_id": "tt0062622",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "2001: A Space Odyssey",
+    "overview": "Desde a “Aurora do Homem” (a pré-história), um misterioso monólito negro parece emitir sinais de outra civilização, assim interferindo no nosso planeta. Quatro milhões de anos depois, no século XXI, uma equipe de astronautas liderados pelo experiente David Bowman e Frank Poole é enviada ao planeta Júpiter para investigar o enigmático monólito na nave Discovery, totalmente controlada pelo computador HAL-9000. Entretanto, no meio da viagem, HAL-9000 entra em pane e tenta assumir o controle da nave, eliminando um a um os tripulantes.",
+    "popularity": 11.0365,
+    "poster_path": "/pVCmLuATJ0lQs4Vx1zUJUN0if2A.jpg",
+    "production_companies": [
+      {
+        "id": 385,
+        "logo_path": null,
+        "name": "Stanley Kubrick Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 21,
+        "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+        "name": "Metro-Goldwyn-Mayer",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1968-04-02",
+    "revenue": 71923560,
+    "runtime": 148,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "tagline": "A viagem definitiva.",
+    "title": "2001: Uma Odisseia no Espaço",
+    "video": false,
+    "vote_average": 8.065,
+    "vote_count": 11844,
+    "genre_ids": [
+      878,
+      9648,
+      12
+    ],
+    "saved_at": "2025-05-28T19:29:19.578Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zyO6j74DKMWfp5snWg6Hwo0T3Mz.jpg",
+    "belongs_to_collection": null,
+    "budget": 250000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Mistério"
+      }
+    ],
+    "homepage": "",
+    "id": 548,
+    "imdb_id": "tt0042876",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "羅生門",
+    "overview": "No Japão do século XI, um lenhador, um sacerdote e um camponês procuram refúgio de uma tempestade nas ruínas de pedra do Portão de Rashomon. O sacerdote conta detalhes de um julgamento que testemunhou, envolvendo o estupro de Masako e o assassinato do marido dela, Takehiro, um samurai. Em flashback é mostrado o julgamento do bandido Tajomaru, onde acontecem quatro testemunhos, inclusive de Takehiro através de um médium. Cada um é uma \"verdade\", que entra em conflito com as outras.",
+    "popularity": 4.6968,
+    "poster_path": "/wNCx5AdhBgSn0ddva3SEUFLs81K.jpg",
+    "production_companies": [
+      {
+        "id": 880,
+        "logo_path": "/vwhPRAZ4lhUtSuaifk4Au2MIm92.png",
+        "name": "Daiei Film",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "1950-08-26",
+    "revenue": 117668,
+    "runtime": 88,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "‎O marido, a esposa... ou o bandido?‎",
+    "title": "Rashomon",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 2315,
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "saved_at": "2025-05-28T19:29:19.578Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tSipsYTp565LkopntX1lZNLPYHP.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Ação"
+      },
+      {
+        "id": 35,
+        "name": "Comédia"
+      },
+      {
+        "id": 9648,
+        "name": "Mistério"
+      }
+    ],
+    "homepage": "",
+    "id": 992,
+    "imdb_id": "tt0015324",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Sherlock Jr.",
+    "overview": "Um projecionista de cinema que sonha em ser detetive coloca suas escassas habilidades em prática quando é incriminado por um rival por roubar o relógio de bolso do pai de sua namorada.",
+    "popularity": 1.865,
+    "poster_path": "/pLQhs83bohZ9F7WkJgK41ljPJsr.jpg",
+    "production_companies": [
+      {
+        "id": 16101,
+        "logo_path": "/2yI4rjPZ1I7TLZ2UWvTtXifYEnw.png",
+        "name": "Metro Pictures Corporation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1924-04-17",
+    "revenue": 0,
+    "runtime": 45,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Cada centímetro da filmagem é uma risada!",
+    "title": "Bancando o Águia",
+    "video": false,
+    "vote_average": 8.05,
+    "vote_count": 1044,
+    "genre_ids": [
+      28,
+      35,
+      9648
+    ],
+    "saved_at": "2025-05-28T19:29:19.578Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg",
+    "belongs_to_collection": null,
+    "budget": 839727,
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Mistério"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 15,
+    "imdb_id": "tt0033467",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Citizen Kane",
+    "overview": "Charles Foster Kane foi um menino pobre que acaba se tornando um dos homens mais ricos do mundo. O filme inicia com a sua morte, momentos antes da qual pronuncia a palavra \"Rosebud\". Após dias de sensacionalismo em cima da notícia de sua morte, o jornalista Jerry Thompson é enviado por seu chefe para investigar a vida de Kane, a fim de descobrir o sentido de sua última palavra, a qual ninguém sabia. Entrevistando pessoas do passado de Kane, o jornalista mergulha na vida de um homem solitário, que desde a infância é obrigado a seguir a vontade alheia. Ninguém a seu redor importa-se com Kane, que busca por meio da aquisição de bens a adoração das pessoas. Ao final, Thompson, após a exaustiva investigação da vida de Kane através de entrevistas, se vê incapaz de descobrir o significado da palavra, concluindo que \"Charles Foster Kane foi um homem que possuiu tudo o que quis e depois perdeu tudo. Talvez Rosebud seja algo que ele nunca tenha possuído ou algo que tenha perdido\".",
+    "popularity": 6.1516,
+    "poster_path": "/7RdvqkBX2gi6kiZ2yySeRqeClur.jpg",
+    "production_companies": [
+      {
+        "id": 11447,
+        "logo_path": null,
+        "name": "Mercury Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 6,
+        "logo_path": "/n53F7K9scQWFXYbrCablqLKqJdp.png",
+        "name": "RKO Radio Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1941-04-17",
+    "revenue": 23218000,
+    "runtime": 119,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "A clássica história de Poder e Imprensa",
+    "title": "Cidadão Kane",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 5678,
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "saved_at": "2025-05-28T19:29:19.578Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xW54kLO7ZB683CwMbGSN3ELSS1K.jpg",
+    "belongs_to_collection": null,
+    "budget": 5500000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animação"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Mistério"
+      },
+      {
+        "id": 36,
+        "name": "História"
+      }
+    ],
+    "homepage": "",
+    "id": 339877,
+    "imdb_id": "tt3262342",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "Loving Vincent",
+    "overview": "Um ano após o suicídio de Vincent Van Gogh, Armand Roulin encontra uma carta por ele enviada ao irmão Theo, que jamais chegou ao seu destino. Após conversar com o pai, carteiro que era amigo pessoal de Van Gogh, Armand é incentivado a entregar ele mesmo a correspondência. Desta forma, ele parte para a cidade francesa de Arles na esperança de encontrar algum contato com a família do pintor falecido. Lá, inicia uma investigação junto às pessoas que conheceram Van Gogh, no intuito de decifrar se ele realmente se matou.",
+    "popularity": 3.1876,
+    "poster_path": "/pw72rhXTRbIel6iNWKHUqiIvcZm.jpg",
+    "production_companies": [
+      {
+        "id": 6550,
+        "logo_path": "/rK7qbf3EXp34rfbAuC9TgJ4HYXh.png",
+        "name": "Breakthru Films",
+        "origin_country": "PL"
+      },
+      {
+        "id": 22153,
+        "logo_path": null,
+        "name": "Trademark Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 257534,
+        "logo_path": null,
+        "name": "RBF Productions",
+        "origin_country": "NL"
+      },
+      {
+        "id": 71114,
+        "logo_path": null,
+        "name": "Odra-Film",
+        "origin_country": "PL"
+      },
+      {
+        "id": 96220,
+        "logo_path": "/byVGEgtVdF8UzuYJWEUof1u7wEl.png",
+        "name": "Centrum Technologii Audiowizualnych",
+        "origin_country": "PL"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "PL",
+        "name": "Poland"
+      },
+      {
+        "iso_3166_1": "NL",
+        "name": "Netherlands"
+      }
+    ],
+    "release_date": "2017-06-22",
+    "revenue": 42187665,
+    "runtime": 94,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Com Amor, Van Gogh",
+    "video": false,
+    "vote_average": 7.992,
+    "vote_count": 2498,
+    "genre_ids": [
+      16,
+      18,
+      9648,
+      36
+    ],
+    "saved_at": "2025-05-28T19:29:19.578Z"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fNHCogWhABNAmzk0IFdzQP5XLYj.jpg",
+    "belongs_to_collection": null,
+    "budget": 2000000,
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Mistério"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 25376,
+    "imdb_id": "tt1305806",
+    "origin_country": [
+      "ES",
+      "AR"
+    ],
+    "original_language": "es",
+    "original_title": "El secreto de sus ojos",
+    "overview": "Benjamín Espósito trabalhou a vida toda em um Tribunal de Justiça e agora aposentado tem a chance de escrever sobre a investigação de um assassinato que acabou mudando sua vida anos atrás.",
+    "popularity": 4.5613,
+    "poster_path": "/pefOYP69bB3ZC6p6B3ZbWc46ioT.jpg",
+    "production_companies": [
+      {
+        "id": 9335,
+        "logo_path": null,
+        "name": "Canal+ España",
+        "origin_country": "ES"
+      },
+      {
+        "id": 5517,
+        "logo_path": "/XPKV5HO98Q5fzgRGWBj5GSRKig.png",
+        "name": "100 Bares",
+        "origin_country": "AR"
+      },
+      {
+        "id": 7680,
+        "logo_path": "/aZ5xfV3J3kSShvHxo06ypgE2QBD.png",
+        "name": "Tornasol Media",
+        "origin_country": "ES"
+      },
+      {
+        "id": 11408,
+        "logo_path": null,
+        "name": "Ministerio de Cultura",
+        "origin_country": ""
+      },
+      {
+        "id": 6458,
+        "logo_path": "/eT4oMUK7ODM0vvZue8yq3Ojwqf8.png",
+        "name": "INCAA",
+        "origin_country": "AR"
+      },
+      {
+        "id": 5623,
+        "logo_path": "/mrpX1NQRR3HoIJLCz9EYaxHnGQz.png",
+        "name": "Haddock Films",
+        "origin_country": "AR"
+      },
+      {
+        "id": 981,
+        "logo_path": "/pkrdO9ykplO4Zc8edikoSX5APUN.png",
+        "name": "TVE",
+        "origin_country": "ES"
+      },
+      {
+        "id": 8046,
+        "logo_path": "/9Pvyw0vgN6PWoMJGsUil0DNlXdd.png",
+        "name": "Telefe",
+        "origin_country": "AR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AR",
+        "name": "Argentina"
+      },
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "release_date": "2009-08-13",
+    "revenue": 33965843,
+    "runtime": 129,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "O Segredo dos seus Olhos",
+    "video": false,
+    "vote_average": 7.985,
+    "vote_count": 2631,
+    "genre_ids": [
+      9648,
+      53,
+      18
+    ],
+    "saved_at": "2025-05-28T19:29:19.578Z"
+  }
+]

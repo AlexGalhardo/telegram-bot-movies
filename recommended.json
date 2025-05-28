@@ -1,0 +1,47 @@
+[
+  {
+    "movie_id": 155,
+    "user_id": 1477312913,
+    "recommended_at": "2025-05-28T19:28:47.248Z"
+  },
+  {
+    "movie_id": 299534,
+    "user_id": 1477312913,
+    "recommended_at": "2025-05-28T19:28:47.248Z"
+  },
+  {
+    "movie_id": 122,
+    "user_id": 1477312913,
+    "recommended_at": "2025-05-28T19:28:47.248Z"
+  },
+  {
+    "movie_id": 324857,
+    "user_id": 1477312913,
+    "recommended_at": "2025-05-28T19:29:06.168Z"
+  },
+  {
+    "movie_id": 618344,
+    "user_id": 1477312913,
+    "recommended_at": "2025-05-28T19:29:06.168Z"
+  },
+  {
+    "movie_id": 283566,
+    "user_id": 1477312913,
+    "recommended_at": "2025-05-28T19:29:06.168Z"
+  },
+  {
+    "movie_id": 92060,
+    "user_id": 1477312913,
+    "recommended_at": "2025-05-28T19:29:19.579Z"
+  },
+  {
+    "movie_id": 1124,
+    "user_id": 1477312913,
+    "recommended_at": "2025-05-28T19:29:19.579Z"
+  },
+  {
+    "movie_id": 670,
+    "user_id": 1477312913,
+    "recommended_at": "2025-05-28T19:29:19.579Z"
+  }
+]

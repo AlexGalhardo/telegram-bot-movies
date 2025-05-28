@@ -1,0 +1,29 @@
+{
+  "name": "telegram-bot-movies",
+  "type": "module",
+  "scripts": {
+    "start": "bun run src/server.ts",
+    "husky": "npx husky",
+    "lint": "biome check src/ --fix --unsafe",
+    "format": "biome format src/ --fix",
+    "build": "bun build src/server.ts --outfile dist/server.js --target node --minify",
+    "build:binary": "bun build src/server.ts --compile --outfile telegram_bot_finances_server"
+  },
+  "lint-staged": {
+    "*.{js,ts,cjs,mjs,d.cts,d.mts,json,jsonc}": [
+      "biome check --apply --no-errors-on-unmatched"
+    ]
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "husky": "^9.1.6"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "grammy": "^1.36.3",
+    "zod": "^3.25.32",
+    "@biomejs/biome": "1.9.4"
+  }
+}
